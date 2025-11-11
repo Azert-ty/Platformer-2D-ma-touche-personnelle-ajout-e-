@@ -1,16 +1,15 @@
 
 ---
 # Plateformer 2D – Ma touche personnelle
-
-Jeu de plateforme 2D développé avec Unity.
+Projet Unity 3D open source personnalisé par moi.  
 🕹️ Objectif : **atteindre la zone verte sans tomber !**
-Jouer en ligne : [Unity Play](https://play.unity.com/en/games/0cfbd224-0278-4962-8672-2d44970be56c/plateformer2d)
+   Jouer en ligne : [Unity Play](https://play.unity.com/en/games/0cfbd224-0278-4962-8672-2d44970be56c/plateformer2d)
 ---
 
 ##  Description
 
 Pilote ton personnage à travers différents niveaux, évite les obstacles et découvre de nouvelles mécaniques de gameplay.
-Cette version open source a été **modifiée par moi ** avec :
+Ce projet est issu d'une  version open source que j'ai modifié avec :
 
 * Ajout d'un nouveau niveau
 * Changement du personnage
