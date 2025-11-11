@@ -3,6 +3,7 @@
 # Plateformer 2D – Ma touche personnelle
 Projet Unity 3D open source personnalisé par moi.  
 🕹️ Objectif : **atteindre la zone verte sans tomber !**
+
   **Jouer en ligne : [Unity Play](https://play.unity.com/en/games/0cfbd224-0278-4962-8672-2d44970be56c/plateformer2d)**
 
 
@@ -34,7 +35,7 @@ Ce projet est issu d'une  version open source que j'ai modifié avec :
 
 ---
 
-## 🧰 Technologies
+##  Technologies
 
 * Unity Engine
 * C#
@@ -42,7 +43,7 @@ Ce projet est issu d'une  version open source que j'ai modifié avec :
 
 ---
 
-## 💻 Code source
+## Code source
 
 [Voir sur GitHub](https://github.com/Azert-ty/Platformer-2D-ma-touche-personnelle-ajout-e-)
 
