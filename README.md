@@ -19,7 +19,7 @@ Ce projet est issu d'une  version open source que j'ai modifié avec :
 * Système de vie intégré
 * Amélioration générale du gameplay
 * Ajout de sons et effets visuels
-* Mécaniques propres et retravaillées pour plus de fun
+* nouvelles Mécaniques  pour plus de fun
 
 ---
 
