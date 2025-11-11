@@ -3,7 +3,7 @@
 # Plateformer 2D – Ma touche personnelle
 Projet Unity 3D open source personnalisé par moi.  
 🕹️ Objectif : **atteindre la zone verte sans tomber !**
-   Jouer en ligne : [Unity Play](https://play.unity.com/en/games/0cfbd224-0278-4962-8672-2d44970be56c/plateformer2d)
+*Jouer en ligne : [Unity Play](https://play.unity.com/en/games/0cfbd224-0278-4962-8672-2d44970be56c/plateformer2d)
 ---
 
 ##  Description
