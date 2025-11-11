@@ -1,4 +1,0 @@
-repository "Plateformer(First2DGAME)/Plateformer(First2DGAME)@11270551594020@cloud"
-  path "/"
-    br "/main"
-    co "/main"
